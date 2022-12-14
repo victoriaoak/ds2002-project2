@@ -1,0 +1,18 @@
+[
+	{
+		"staff_key" : 1,
+		"first_name" : "Mike",
+		"last_name" : "Hillyer",
+		"email" : "Mike.Hillyer@sakilastaff.com",
+		"store_key" : 1,
+		"active" : 1
+	},
+	{
+		"staff_key" : 2,
+		"first_name" : "Jon",
+		"last_name" : "Stephens",
+		"email" : "Jon.Stephens@sakilastaff.com",
+		"store_key" : 2,
+		"active" : 1
+	}
+]
